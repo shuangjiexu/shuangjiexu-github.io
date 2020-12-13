@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuangjie Xu | Homepage of Shuangjie Xu</title>
+    <link>/author/shuangjie-xu/</link>
+      <atom:link href="/author/shuangjie-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shuangjie Xu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:36:59 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Shuangjie Xu</title>
+      <link>/author/shuangjie-xu/</link>
+    </image>
+    
+    <item>
+      <title>MHP-VOS: Multiple hypotheses propagation for video object segmentation</title>
+      <link>/publication/xu2019mhp/</link>
+      <pubDate>Tue, 01 Oct 2019 00:36:59 +0800</pubDate>
+      <guid>/publication/xu2019mhp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MHP-VOS: Multiple hypotheses propagation for video object segmentation</title>
+      <link>/talk/xu2019mhp/</link>
+      <pubDate>Tue, 18 Jun 2019 09:00:00 +0800</pubDate>
+      <guid>/talk/xu2019mhp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Class-agnostic video object segmentation without semantic re-identification</title>
+      <link>/publication/xu2018class/</link>
+      <pubDate>Thu, 13 Dec 2018 21:42:44 +0800</pubDate>
+      <guid>/publication/xu2018class/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jointly attentive spatial-temporal pooling networks for video-based person re-identification</title>
+      <link>/publication/xu2017jointly/</link>
+      <pubDate>Sun, 01 Oct 2017 00:36:59 +0800</pubDate>
+      <guid>/publication/xu2017jointly/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

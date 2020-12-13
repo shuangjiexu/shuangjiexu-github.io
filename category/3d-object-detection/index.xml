@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D object detection | Homepage of Shuangjie Xu</title>
+    <link>/category/3d-object-detection/</link>
+      <atom:link href="/category/3d-object-detection/index.xml" rel="self" type="application/rss+xml" />
+    <description>3D object detection</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Oct 2020 22:09:08 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>3D object detection</title>
+      <link>/category/3d-object-detection/</link>
+    </image>
+    
+    <item>
+      <title>HVNet: Hybrid Voxel Network for LiDAR Based 3D Object Detection</title>
+      <link>/publication/ye2020hvnet/</link>
+      <pubDate>Tue, 13 Oct 2020 22:09:08 +0800</pubDate>
+      <guid>/publication/ye2020hvnet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
